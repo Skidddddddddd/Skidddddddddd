@@ -4,5 +4,4 @@
 github.com/Skidddddddddd
 dc  $ @x7549
 ca  $ nothervibes
-bio $ guns.lol/*
 ```
