@@ -2,7 +2,7 @@
 
 ```bash
 dc  $ @x7549
-ca  $ nothervibes
+ca  $ NotHerVibes
 yt  $ VainWasHere
 web $ guns.lol/tn
 ```
