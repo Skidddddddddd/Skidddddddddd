@@ -4,5 +4,5 @@
 dc  $ @x7549
 ca  $ nothervibes
 web $ guns.lol/tn
-gthb $ Skidddddddddd 
+gtb $ Skidddddddddd 
 ```
