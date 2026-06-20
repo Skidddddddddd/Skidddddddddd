@@ -4,5 +4,5 @@
 dc  $ @x7549
 ca  $ NotHerVibes
 yt  $ VainWasHere
-web $ guns.lol/tn
+web $ Weeknd.lol
 ```
