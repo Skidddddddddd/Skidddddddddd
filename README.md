@@ -3,6 +3,5 @@
 ```bash
 dc  $ @x7549
 ca  $ NotHerVibes
-yt  $ VainWasHere
 web $ Weeknd.lol
 ```
