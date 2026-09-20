@@ -3,5 +3,5 @@
 ```bash
 dc  $ @x75491
 ca  $ NotHerVibes
-web $ Guns.lol/*
+web $ Guns.lol/tn
 ```
