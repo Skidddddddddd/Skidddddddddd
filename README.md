@@ -2,6 +2,5 @@
 
 ```bash
 dc  $ @Dramatic1987
-ca  $ NotHerVibes
 web $ Guns.lol/tn
 ```
